@@ -18,7 +18,7 @@ a {
 
 .search-container {
   width: 100%;
-  height: 5vh;
+  height: 10vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -30,7 +30,7 @@ a {
   height: 60%;
   border-radius: 5px;
   border: none;
-  font-size: 20px;
+  font-size: 5vh;
 }
 
 .search-container svg {
